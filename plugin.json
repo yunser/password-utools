@@ -1,0 +1,16 @@
+{
+    "main": "./dist/index.html",
+    "preload": "./dist/main.js",
+    "logo": "logo.png",
+    "features": [
+        {
+            "code": "密码",
+            "explain": "密码管理",
+            "cmds": [
+                "密码",
+                "passowrd",
+                "pwd"
+            ]
+        }
+    ]
+}

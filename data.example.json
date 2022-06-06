@@ -1,0 +1,11 @@
+{
+    "version": "0.0.1",
+    "data": [
+        {
+            "title": "苹果账号测试",
+            "account": "test@apple.com",
+            "password": "test123456",
+            "keywords": []
+        }
+    ]
+}
